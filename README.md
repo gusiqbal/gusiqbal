@@ -16,9 +16,9 @@ Saya seorang *programmer* yang selalu punya dorongan besar untuk terus berkemban
 
 ### Hit me here ✉️
 
-<a href="https://github.com/BagusMuhammadIqbal">
+<a href="https://github.com/gusiqbal">
   <img src="https://img.shields.io/badge/BagusMuhammadIqbal-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="mailto:emailkamu@gmail.com">
+<a href="mailto:bagusiqbal97@gmail.com">
   <img src="https://img.shields.io/badge/emailkamu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
